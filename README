@@ -1,0 +1,58 @@
+PiCF Quick Guide-
+
+PiCF is a program for computing continued fractions of any number between 1 and 10 very quickly. It can be used for breaking world records, partial verification, and much more.
+
+*******************
+System Requirements
+*******************
+At least 32MB of RAM to do anything worthwhile;
+At least 32MB of hard drive space to store small continued fractions;
+Note-you will need more in order to store larger continued fractions.
+
+***************
+Getting Started
+***************
+
+To start using PiCF, simply extract the contents of the zip into another folder anywhere on your system except for inside C:\Windows\. Then run PiCF.exe.
+
+**************
+Example of Use
+**************
+Here's how to make a simple continued fraction using PiCF. 
+In this tutorial, we will create a slightly less than 1000-term long continued fraction of pi.
+First, go into the settings menu and change these settings:
+Filename should be smallpi.txt
+Power should be 1000
+Precision should be 4000
+Increments to display should be 100
+Read Blocks should be 100
+
+Then, go back to the main menu and press 3 to get into the compute menu. After that, press "y" to start the computation. The total time should be less than 1 second to compute. Afterwards, press "n" on the verification prompt and press enter to exit. Open up output.txt in a file viewer, and the result should look something like this:
+3
+7
+15
+1
+292
+...
+Congratulations, you've made your first continued fraction.
+
+If you need more help, you can get it from the "help" menu.
+
+****
+TODO
+****
+
+Needed:
+Output in Ascii, not Unicode
+Add 32-bit support
+
+Useful:
+Add switch to generate FromContinuedFraction at end
+Minimize memory use: Although it may not be as bad as Mathematica, it still gobbles up memory like Cookie Monster.
+Add GUI: Because some people are scared of command lines.
+Fix decimal point problem-e^pi is interesting too!
+
+Maybe later:
+Multi-core utilization
+Recode in C++ - GMP isn't as fast as it should be!
+Switch from lists to arrays - I have no idea why this isn't in.
