@@ -1,0 +1,2 @@
+You'll need to copy these files (Emil.GMP.dll, Emil.GMP.pdb, and libgmp-3.dll) into the same directory as the final executable for PiCF to work properly.
+You don't need smallpi.txt to run PiCF, but it's useful as a short input file.

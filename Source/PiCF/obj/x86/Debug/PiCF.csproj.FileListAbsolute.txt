@@ -1,0 +1,10 @@
+c:\users\neil\documents\visual studio 2010\Projects\PiCF\PiCF\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\neil\documents\visual studio 2010\Projects\PiCF\PiCF\bin\Debug\PiCF.exe
+c:\users\neil\documents\visual studio 2010\Projects\PiCF\PiCF\bin\Debug\PiCF.pdb
+c:\users\neil\documents\visual studio 2010\Projects\PiCF\PiCF\obj\x86\Debug\PiCF.exe
+c:\users\neil\documents\visual studio 2010\Projects\PiCF\PiCF\obj\x86\Debug\PiCF.pdb
+C:\Users\neil\Documents\Visual Studio 2010\Projects\PiCF\PiCF\bin\Debug\Emil.GMP.dll
+C:\Users\neil\Documents\Visual Studio 2010\Projects\PiCF\PiCF\bin\Debug\Emil.GMP.pdb
+C:\Users\neil\documents\visual studio 2010\Projects\PiCF\PiCF\obj\x86\Debug\PiCF.Properties.Resources.resources
+C:\Users\neil\documents\visual studio 2010\Projects\PiCF\PiCF\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\neil\documents\visual studio 2010\Projects\PiCF\PiCF\obj\x86\Debug\GenerateResource.write.1.tlog

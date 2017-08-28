@@ -1,0 +1,10 @@
+C:\Users\neil\Documents\Visual Studio 2010\Projects\PiCF\PiCF\bin\x64\Release\PiCF.exe
+C:\Users\neil\Documents\Visual Studio 2010\Projects\PiCF\PiCF\bin\x64\Release\PiCF.pdb
+C:\Users\neil\Documents\Visual Studio 2010\Projects\PiCF\PiCF\bin\x64\Release\Emil.GMP.dll
+C:\Users\neil\Documents\Visual Studio 2010\Projects\PiCF\PiCF\bin\x64\Release\Emil.GMP.pdb
+C:\Users\neil\Documents\Visual Studio 2010\Projects\PiCF\PiCF\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\neil\Documents\Visual Studio 2010\Projects\PiCF\PiCF\obj\x64\Release\PiCF.Properties.Resources.resources
+C:\Users\neil\Documents\Visual Studio 2010\Projects\PiCF\PiCF\obj\x64\Release\GenerateResource.read.1.tlog
+C:\Users\neil\Documents\Visual Studio 2010\Projects\PiCF\PiCF\obj\x64\Release\GenerateResource.write.1.tlog
+C:\Users\neil\Documents\Visual Studio 2010\Projects\PiCF\PiCF\obj\x64\Release\PiCF.exe
+C:\Users\neil\Documents\Visual Studio 2010\Projects\PiCF\PiCF\obj\x64\Release\PiCF.pdb

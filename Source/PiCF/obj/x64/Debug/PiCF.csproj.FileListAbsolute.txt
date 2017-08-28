@@ -1,0 +1,29 @@
+C:\Users\neil\Documents\Visual Studio 2010\Projects\PiCF\PiCF\bin\x64\Debug\PiCF.exe
+C:\Users\neil\Documents\Visual Studio 2010\Projects\PiCF\PiCF\bin\x64\Debug\PiCF.pdb
+C:\Users\neil\Documents\Visual Studio 2010\Projects\PiCF\PiCF\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\neil\Documents\Visual Studio 2010\Projects\PiCF\PiCF\obj\x64\Debug\PiCF.exe
+C:\Users\neil\Documents\Visual Studio 2010\Projects\PiCF\PiCF\obj\x64\Debug\PiCF.pdb
+C:\Users\neil\documents\visual studio 2010\Projects\PiCF\PiCF\bin\x64\Debug\Emil.GMP.pdb
+C:\Users\neil\documents\visual studio 2010\Projects\PiCF\PiCF\obj\x64\Debug\PiCF.Properties.Resources.resources
+C:\Users\neil\documents\visual studio 2010\Projects\PiCF\PiCF\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\neil\documents\visual studio 2010\Projects\PiCF\PiCF\obj\x64\Debug\GenerateResource.write.1.tlog
+D:\N.B\Visual Studio\C#\PiCF\PiCF\obj\x64\Debug\PiCF.exe
+D:\N.B\Visual Studio\C#\PiCF\PiCF\obj\x64\Debug\PiCF.pdb
+D:\N.B\Visual Studio\C#\PiCF\PiCF\bin\x64\Debug\PiCF.exe
+D:\N.B\Visual Studio\C#\PiCF\PiCF\bin\x64\Debug\PiCF.pdb
+D:\N.B\Visual Studio\C#\PiCF\PiCF\bin\x64\Debug\Emil.GMP.pdb
+D:\N.B\Visual Studio\C#\PiCF\PiCF\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\N.B\Visual Studio\C#\PiCF\PiCF\obj\x64\Debug\PiCF.Properties.Resources.resources
+D:\N.B\Visual Studio\C#\PiCF\PiCF\obj\x64\Debug\GenerateResource.read.1.tlog
+D:\N.B\Visual Studio\C#\PiCF\PiCF\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\N.B\Visual Studio\C#\PiCF\PiCF\obj\x64\Debug\PiCF.exe
+C:\N.B\Visual Studio\C#\PiCF\PiCF\obj\x64\Debug\PiCF.pdb
+C:\N.B\Visual Studio\C#\PiCF\PiCF\bin\x64\Debug\PiCF.exe
+C:\N.B\Visual Studio\C#\PiCF\PiCF\bin\x64\Debug\PiCF.pdb
+C:\N.B\Visual Studio\C#\PiCF\PiCF\bin\x64\Debug\Emil.GMP.pdb
+C:\N.B\Visual Studio\C#\PiCF\PiCF\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\N.B\Visual Studio\C#\PiCF\PiCF\obj\x64\Debug\PiCF.Properties.Resources.resources
+C:\N.B\Visual Studio\C#\PiCF\PiCF\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\N.B\Visual Studio\C#\PiCF\PiCF\obj\x64\Debug\GenerateResource.write.1.tlog
+G:\The British Library\N.B\Visual Studio\C#\PiCF\PiCF\obj\x64\Debug\PiCF.exe
+G:\The British Library\N.B\Visual Studio\C#\PiCF\PiCF\obj\x64\Debug\PiCF.pdb
